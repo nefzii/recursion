@@ -1,0 +1,7 @@
+Function  isPal(parameters) :
+VAR
+set_decLarations
+BEGIN
+set_instructions
+RETURN value ;
+END
